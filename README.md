@@ -62,7 +62,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 [![GitHub Badge](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]()
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)]()
 
-<a href="https://github.com/SurajInCode">
+<a href="">
   <img src="data/logoo.ico" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
 </a>
 
