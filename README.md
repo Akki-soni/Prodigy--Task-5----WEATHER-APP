@@ -36,7 +36,7 @@
 
 ## 🌟 Screenshots
 
-![Weather App Screenshot](/data/screenshot.png)
+![Weather App Screenshot](/data/Screenshot.png)
 
 ## 🔗 Live Demo
 
